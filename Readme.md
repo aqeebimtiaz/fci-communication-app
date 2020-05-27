@@ -4,3 +4,6 @@ An android-based application aimed for easier communication between the faculty 
 
 ## Login
 
+To sign into the “FCI-Student Communication App”, the admin or the student will be
+able to input their login credentials in the login page and then the app will get the
+validation from the database. For students, the credentials will be their student IDs and user defined passwords.
